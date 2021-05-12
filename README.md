@@ -1,3 +1,12 @@
-# Pandas Cheat Sheet
+# :octopus: Paul the Octopus
 
-This repository contains a some useful functions of the pandas library.
+This project aims to analyze data from FIFA World Cup macthes and try to predict the outcome of future matches.
+
+## Data
+
+The data used in this project was obtained from [kaggle](https://www.kaggle.com/abecklas/fifa-world-cup) and is divided in three `.csv` files:
+
+* `WorldCupMatches.csv`: information about all World Cup matches from 1930 to 2014;
+* `WorldCupPlayers.csv`: information about lineup and events envolving player (goals, cards, etc.); and
+* `WorldCups.csv`: information about each World Cup, such as hosting countries, champions, goals scored, etc.
+
